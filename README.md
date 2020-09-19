@@ -4,4 +4,4 @@ I am Venessa Rizack, a first-year student at Lehigh University from Northport, N
 My intended major is Behavioral Neuroscience, and I will be using this page for my data journalism course.
 
 ![Venessa Rizack](profile.jpeg)
-[Facebook Page] (https://www.facebook.com/venessa.rizack)
+[Facebook Page](https://www.facebook.com/venessa.rizack)
