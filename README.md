@@ -5,3 +5,6 @@ My intended major is Behavioral Neuroscience, and I will be using this page for 
 
 ![Venessa Rizack](profile.jpeg)
 [Facebook Page](https://www.facebook.com/venessa.rizack)
+
+## 
+![Practice Infographic](https://github.com/venessarizack/venessarizack.github.io/blob/master/Add%20a%20subheading%20(1).png?raw=true)
