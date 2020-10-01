@@ -11,3 +11,5 @@ My intended major is Behavioral Neuroscience, and I will be using this page for 
 [Lehigh 2019 Fall Enrollment Statistics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
 This infographic shows the distribution of where Lehigh students came from in 2019. The largest percentage of students came from New York or New Jersey, closely followed by the percentage of students from other U.S. states. This percentage is then closely followed by the percentage of students from Pennsylvania. The smallest percentage was of international students, although it is still a relatively large percentage of students. This shows the diversity in students enrolled in Lehigh University in 2019.
+
+## Crime Rates in Bethlehem, PA
