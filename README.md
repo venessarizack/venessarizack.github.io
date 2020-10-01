@@ -12,4 +12,9 @@ My intended major is Behavioral Neuroscience, and I will be using this page for 
 
 This infographic shows the distribution of where Lehigh students came from in 2019. The largest percentage of students came from New York or New Jersey, closely followed by the percentage of students from other U.S. states. This percentage is then closely followed by the percentage of students from Pennsylvania. The smallest percentage was of international students, although it is still a relatively large percentage of students. This shows the diversity in students enrolled in Lehigh University in 2019.
 
-## Crime Rates in Bethlehem, PA
+## Crime Rates in Bethlehem, PA (2018)
+![Crime Rates](https://github.com/venessarizack/venessarizack.github.io/blob/master/Crime%20Rates%20in%20Bethlehem-5.png?raw=true)
+[Bethlehem, PA Crime](https://www.areavibes.com/bethlehem-pa/crime/)
+[Uniform Crime Reporting](https://www.fbi.gov/services/cjis/ucr)
+
+This infographic shows the percentages of violent crime versus property crime in Bethlehem, PA, and then shows the breakdown of which types of crimes there were. This data came from the FBI's Uniform Crime Reporting Program. This data, (released by the FBI in September, 2019) reflects the year 2018, and is the most recent data available. This shows that there was much more property crime than violent crime, and which specific crimes there were more of. This can be used to help the FBI and law enforcement know which crimes are most common so that they know which types of crime need the most attention and resources in their community.
