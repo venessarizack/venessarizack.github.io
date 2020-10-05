@@ -22,7 +22,7 @@ This infographic shows the percentages of violent crime versus property crime in
 
 ## Timeline of the Lehigh-Lafayette Rivalry
 
-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Eda1hl-wMHYe8Ye35qdGe-xUxFLbUSKM_HPmPMcEnjQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Eda1hl-wMHYe8Ye35qdGe-xUxFLbUSKM_HPmPMcEnjQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## An Early History of Cameras
 
