@@ -20,6 +20,6 @@ This infographic shows the distribution of where Lehigh students came from in 20
 
 This infographic shows the percentages of violent crime versus property crime in Bethlehem, PA, and then shows the breakdown of which types of crimes there were. This data came from the FBI's Uniform Crime Reporting Program. The UCR program consists of four separate data collections, and produces annual reports for each of them. This enables law enforcement and the general public to access these data in their communities, and others. This data, (released by the FBI in September, 2019) reflects the year 2018, and is the most recent data available. This shows that there was much more property crime than violent crime, and which specific crimes there were more of. This can be used to help the FBI and law enforcement know which crimes are most common so that they know which types of crime need the most attention and resources in their community.
 
-## Timeline 
+## Timeline of the Lehigh-Lafayette Rivalry
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Eda1hl-wMHYe8Ye35qdGe-xUxFLbUSKM_HPmPMcEnjQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
