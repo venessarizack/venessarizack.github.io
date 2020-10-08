@@ -29,3 +29,7 @@ This infographic shows the percentages of violent crime versus property crime in
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11-bNXNO3Afo_pQ1_vkw7xJPtKsUb_gm6M-NsHjURHnI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 [Timeline of Cameras](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11-bNXNO3Afo_pQ1_vkw7xJPtKsUb_gm6M-NsHjURHnI&font=Default&lang=en&initial_zoom=2&height=650)
+
+## Lehigh Enrollment
+
+![My Image](https://github.com/venessarizack/venessarizack.github.io/blob/master/Lehigh_University_2019_Percent_College_Enrollment_%25_Enrollment_chartbuilder.png?raw=true)
