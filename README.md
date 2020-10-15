@@ -39,3 +39,7 @@ This infographic shows the percentages of violent crime versus property crime in
 ![My Image](https://github.com/venessarizack/venessarizack.github.io/blob/master/Lehigh_University_COVID-19_Testing_by_Week_Positive_Results_Cumulative_Positive_Results_chartbuilder.png?raw=true)
 
 This chart shows the number of positive COVID-19 test results on Lehigh University's campus. These data were collected from Lehigh's Health and Wellness Center and Vault Health. These numbers are important to show how many cases are present to identify the trends weekly and cumulatively. As shown in the chart, the week of October 4th, 2020 has had the largest increase in the number of cases since the start of surveillance testing.
+
+## Lehigh
+
+![My Image]
