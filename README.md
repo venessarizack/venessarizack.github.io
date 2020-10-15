@@ -42,4 +42,4 @@ This chart shows the number of positive COVID-19 test results on Lehigh Universi
 
 ## Undergraduate Enrollment at Lehigh from 2015-2019
 
-![My Image](https://github.com/venessarizack/venessarizack.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_from_2015-2019_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+![My Image](https://github.com/venessarizack/venessarizack.github.io/blob/dfd3175bdab12960fd6dcceb5ddf70aad1b9bad9/Undergraduate_Enrollment_at_Lehigh_from_2015-2019_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
