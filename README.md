@@ -1,6 +1,7 @@
 # venessarizack.github.io
-![My Comic]
+
 ## About Me
+![My Comic](https://github.com/venessarizack/venessarizack.github.io/blob/master/Screen%20Shot%202020-12-01%20at%202.05.40%20PM.png?raw=true)
 I am Venessa Rizack, a first-year student at Lehigh University from Northport, New York. 
 My intended major is Behavioral Neuroscience, and I will be using this page for my data journalism course.
 
