@@ -9,6 +9,7 @@ My intended major is Behavioral Neuroscience, and I will be using this page for 
 [Facebook Page](https://www.facebook.com/venessa.rizack)
 
 ## Top 20 Movie Filming Locations in the U.S.
+Below is a map of the top 20 locations in the United States to be featured in movies. The rankings are in order of how many films have featured the location, with #1 being the most films. It is very interesting to see that all 20 locations are found in either New York or California; it makes sense, though, considering the volume of movies that take place in or feature shots from these two states.
 <iframe src="https://www.google.com/maps/d/embed?mid=1ibMNLvVstoz_JzupCiEPHPCB6wlpqKIF" width="640" height="480"></iframe>
 
 ## Lehigh Enrollment 2019 Infographic
