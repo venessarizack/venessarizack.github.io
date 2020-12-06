@@ -12,6 +12,7 @@ My intended major is Behavioral Neuroscience, and I will be using this page for 
 Below is a map of the top 20 locations in the United States to be featured in movies. The rankings are in order of how many films have featured the location, with #1 being the most films. It is very interesting to see that all 20 locations are found in either New York or California; it makes sense, though, considering the volume of movies that take place in or feature shots from these two states.
 <iframe src="https://www.google.com/maps/d/embed?mid=1ibMNLvVstoz_JzupCiEPHPCB6wlpqKIF" width="640" height="480"></iframe>
 
+
 ## Lehigh Enrollment 2019 Infographic
 ![Practice Infographic](https://github.com/venessarizack/venessarizack.github.io/blob/master/Add%20a%20subheading%20(1).png?raw=true)
 [Lehigh 2019 Fall Enrollment Statistics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
@@ -21,7 +22,6 @@ This infographic shows the distribution of where Lehigh students came from in 20
 ## Crime Rates in Bethlehem, PA (2018)
 ![Crime Rates](https://github.com/venessarizack/venessarizack.github.io/blob/master/Crime%20Rates%20in%20Bethlehem-5.png?raw=true)
 [Bethlehem, PA Crime](https://www.areavibes.com/bethlehem-pa/crime/)
-
 [Uniform Crime Reporting](https://www.fbi.gov/services/cjis/ucr)
 
 This infographic shows the percentages of violent crime versus property crime in Bethlehem, PA, and then shows the breakdown of which types of crimes there were. This data came from the FBI's Uniform Crime Reporting Program. The UCR program consists of four separate data collections, and produces annual reports for each of them. This enables law enforcement and the general public to access these data in their communities, and others. This data, (released by the FBI in September, 2019) reflects the year 2018, and is the most recent data available. This shows that there was much more property crime than violent crime, and which specific crimes there were more of. This can be used to help the FBI and law enforcement know which crimes are most common so that they know which types of crime need the most attention and resources in their community.
